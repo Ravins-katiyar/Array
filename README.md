@@ -1,4 +1,4 @@
-Array Repository in Java
+# Array Repository in Java
 This repository contains various array-related algorithms and utilities implemented in Java.
 
 Overview
